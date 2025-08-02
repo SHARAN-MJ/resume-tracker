@@ -60,7 +60,7 @@ streamlit run app.py
 <img width="1920" height="1080" alt="Screenshot 2025-08-02 111620" src="https://github.com/user-attachments/assets/716b49fe-672d-49b0-96a8-e245ff50e754" />
 
 
-📄 License
+## License
 This project is licensed under the MIT License.
 
 Built by SHARAN MJ 🚀
